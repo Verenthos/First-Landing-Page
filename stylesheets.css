@@ -1,7 +1,5 @@
-.flexcontainer
-{
-display: flexbox;
-flex: 1;
-flex-direction: column; 
+.first-section{
+    background-color:#1F2937;
+    font-size: 42;
 }
 
