@@ -1,0 +1,7 @@
+.flexcontainer
+{
+display: flexbox;
+flex: 1;
+flex-direction: column; 
+}
+
