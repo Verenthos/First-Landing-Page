@@ -1,17 +1,19 @@
-*{
-    margin: 0;
-    padding: 0;
-    }
-.header {
+.header{
     background-color:#1F2937;
     color: purple;
     display: flex;
     font-weight: bold;
-    padding-left: 12%;
-    padding-right: 12%;
-    font-size: 42;
+    font-size: 60px;
+    text-align: left;
+    padding-left: 0%;
         }
 .hero {
     color:blue;
 }
     
+.header .headerlist {
+    font-size: 48px;
+    text-align: right;
+    padding-left: 6%;
+    color:red
+}
