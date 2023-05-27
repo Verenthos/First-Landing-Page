@@ -5,15 +5,20 @@
     font-weight: bold;
     font-size: 60px;
     text-align: left;
-    padding-left: 0%;
+    padding: 0;
         }
 .hero {
     color:blue;
 }
     
 .header .headerlist {
-    font-size: 48px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 18px;
     text-align: right;
-    padding-left: 6%;
-    color:red
+    margin-right: 1em 5;
+    padding-right: 24%;
+    color:yellow
 }
+
