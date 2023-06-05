@@ -33,7 +33,22 @@ color: white;
 padding: 75px;
 }
 
-h2{
+h1{
     text-align: center;
-    align-items: center;
+    align-content: center;
+}
+
+.blue-box {
+    width: 150px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+.row-of-blue-divs {
+    display: flex;
+    justify-content: space-evenly;
+}
+.blue-text{
+    color: purple
 }
